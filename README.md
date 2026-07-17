@@ -1,9 +1,5 @@
 # Algoritmos para Dibujar Líneas en Rust
 
-Este proyecto implementa tres algoritmos clásicos para dibujar líneas sobre un **framebuffer** utilizando Rust y Raylib.
-
-El framebuffer permite dibujar píxeles individuales, y a partir de ellos se implementan distintos algoritmos para generar líneas.
-
 ## Algoritmos implementados
 
 - Ecuación de la recta
